@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\C# Finance Tracker and Goal Creator\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\Finance and Goal Tracker\\FinalProject\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\C# Finance Tracker and Goal Creator\\FinalProject\\FinalProject.csproj",
+      "projectPath": "C:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\Finance and Goal Tracker\\FinalProject\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\C# Finance Tracker and Goal Creator\\FinalProject\\obj\\",
+      "outputPath": "C:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\Finance and Goal Tracker\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config"

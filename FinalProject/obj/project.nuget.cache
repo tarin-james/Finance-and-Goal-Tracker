@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4hoWionCWk4=",
+  "dgSpecHash": "5CeNVQGGGrw=",
   "success": true,
-  "projectFilePath": "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\C# Finance Tracker and Goal Creator\\FinalProject\\FinalProject.csproj",
+  "projectFilePath": "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\Finance and Goal Tracker\\FinalProject\\FinalProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",

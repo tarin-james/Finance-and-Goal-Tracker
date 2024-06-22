@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\C# Finance Tracker and Goal Creator\\FinalProject\\FinalProject.csproj": {}
+    "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\Finance and Goal Tracker\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\C# Finance Tracker and Goal Creator\\FinalProject\\FinalProject.csproj": {
+    "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\Finance and Goal Tracker\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\C# Finance Tracker and Goal Creator\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\Finance and Goal Tracker\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\C# Finance Tracker and Goal Creator\\FinalProject\\FinalProject.csproj",
+        "projectPath": "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\Finance and Goal Tracker\\FinalProject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\C# Finance Tracker and Goal Creator\\FinalProject\\obj\\",
+        "outputPath": "c:\\Users\\matth\\OneDrive\\Documents\\Spring 2024\\Finance and Goal Tracker\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config"
