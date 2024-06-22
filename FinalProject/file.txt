@@ -1,0 +1,9 @@
+Wendy's,Food,06/22/24,-20
+Gas,Automotive,06/15/24,-50
+Paycheck,Work,06/20/24,300
+garbage,spending,06/22/24,-30
+roomba,tech,06/22/24,-100
+-
+FinancialGoal,Save 1000$ by the end of the month.,Growing my saving account.
+LifetimeGoal,Own a house,Have my own house,10FinancialGoalLifetimeGoal,have a family,have a family,10FinancialGoal,save a lot of money,grow the savings and checking account
+LifetimeGoal,have a lot of icecream,eat a lot of icecream,5
